@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost/testing/index.php",
+            "url": "http://localhost/craftygift/e-commerce/index.php",
             "webRoot": "${workspaceFolder}"
         }
     ]
